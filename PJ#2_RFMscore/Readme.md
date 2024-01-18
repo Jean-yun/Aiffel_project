@@ -1,2 +1,1 @@
-Customer Segmentation Using BigQuery  
-
+Customer Segmentation Using BigQuery
